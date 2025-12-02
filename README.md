@@ -1,7 +1,6 @@
 ## About Me 👋
 
-I'm Paul Mallett — a college sophomore skilled in web development and currently exploring Python automation. I'm working toward building the technical foundation needed for a future role in system administration. I'm always eager to learn, grow, and hear new perspectives.
-<br><br>
+I’m Paul Mallett — a college sophomore with strong front-end web development skills and a growing interest in Python automation. I’m focused on building the technical foundation for a future career in system administration, and I’m always eager to learn, grow, and gain new perspectives.<br><br>
 
 Languages & Frameworks I’ve Worked With:
 <br>
