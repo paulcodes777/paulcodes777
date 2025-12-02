@@ -5,9 +5,8 @@ I'm Paul Mallett — a college sophomore skilled in web development and currentl
 
 Languages & Frameworks I’ve Worked With:
 <br>
-HTML • CSS • JavaScript • Python • PowerShell • Bootstrap 5
+HTML | CSS | JavaScript | Python | PowerShell | Bootstrap 5
 
-<br>
 <br>
 LinkedIn:  https://www.linkedin.com/in/pjmallett/
 <br>
