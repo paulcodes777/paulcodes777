@@ -4,5 +4,5 @@ I'm Paul Mallett — a college sophomore skilled in web development and currentl
 
 I'm always eager to learn, grow, and hear new perspectives.
 
-Languages & Frameworks I’ve Worked With:
+Languages & Frameworks I’ve Worked With:|
 HTML • CSS • JavaScript • Python • PowerShell • Bootstrap 5
