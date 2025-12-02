@@ -7,5 +7,5 @@ Languages & Frameworks I’ve Worked With:
 HTML | CSS | JavaScript | Python | PowerShell | Bootstrap 5
 
 <br>
-Connect with Me! <br>
-LinkedIn:  https://www.linkedin.com/in/pjmallett/
+Connect with me on LinkedIn! <br>
+https://www.linkedin.com/in/pjmallett/
