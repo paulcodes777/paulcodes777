@@ -10,5 +10,5 @@ HTML | CSS | JavaScript | Python | PowerShell | Bootstrap 5
 Connect with me on LinkedIn! <br>
 https://www.linkedin.com/in/pjmallett/
 
-<br>
+<br><br>
 #agtg
