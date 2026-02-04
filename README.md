@@ -9,7 +9,13 @@ Python | JavaScript | HTML | CSS | PowerShell | Bootstrap 5
 <br>
 #agtg
 
-<img width="757" height="854" alt="Screenshot 2026-02-04 115046" src="https://github.com/user-attachments/assets/0535f2ea-c5cf-46ff-a88f-f2c54b4e50a0" />
+<p align="center">
+  <a href="./resume.pdf">
+    <img src="https://github.com/user-attachments/assets/0535f2ea-c5cf-46ff-a88f-f2c54b4e50a0" width="300" alt="Resume Preview" />
+  </a>
+  <br>
+  <em>Click on my resume to view or download it</em>
+</p>
 
 
 
