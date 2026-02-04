@@ -11,6 +11,10 @@ Python | JavaScript | HTML | CSS | PowerShell | Bootstrap 5
 
 <p align="center">
   <a href="./resume.pdf">
-<img width="250" alt="Screenshot 2026-02-04 115046" src="https://github.com/user-attachments/assets/2ec0c0ce-ae13-4034-8b90-83e950cf3c2a" />
+    <img src="https://github.com/user-attachments/assets/fbebc6fe-0e02-489a-aaad-fc582e8cc7f9" width="250" alt="Resume Preview" />
   </a>
+  <br>
+  <em>Click the image to view or download my resume</em>
 </p>
+
+
