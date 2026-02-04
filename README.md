@@ -8,3 +8,5 @@ Python | JavaScript | HTML | CSS | PowerShell | Bootstrap 5
 
 <br>
 #agtg
+
+<img width="757" height="854" alt="Screenshot 2026-02-04 115046" src="https://github.com/user-attachments/assets/2ec0c0ce-ae13-4034-8b90-83e950cf3c2a" />
