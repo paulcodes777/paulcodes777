@@ -5,6 +5,7 @@ I'm a Computer Information Sciences (IT) student passionate about Linux, system 
 
 I'm currently working toward a career in systems administration or Linux system administration, building projects that strengthen my skills in automation, troubleshooting, and system management.
 <br>
+<br>
 Technologies
 <br>
 Linux | Bash | Python | Git & GitHub | Active Directory | Networking Fundamentals | HTML | CSS | JavaScript
