@@ -1,10 +1,13 @@
 ## About Me 🙏
 
-I’m Paul Mallett — a college sophomore with strong front-end web development skills and a growing interest in Python automation. I’m focused on building the technical foundation for a future career in system administration, DevOps, or software engineering, and I’m always eager to learn, grow, and gain new perspectives.<br><br>
+I'm a Computer Information Sciences (IT) student passionate about Linux, system administration, and IT support. I enjoy building hands-on projects that strengthen my skills in Linux, Bash scripting, Python, Git, and networking while continuously learning new technologies.
+<br><br>
 
-Languages & Frameworks I’ve Worked With:
+I'm currently working toward a career in systems administration or Linux system administration, building projects that strengthen my skills in automation, troubleshooting, and system management.
 <br>
-Python | JavaScript | HTML | CSS | PowerShell | Bootstrap 5
+Technologies
+<br>
+Linux | Bash | Python | Git & GitHub | Active Directory | Networking Fundamentals | HTML | CSS | JavaScript
 
 <br>
 #agtg
